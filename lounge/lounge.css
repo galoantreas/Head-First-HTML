@@ -1,12 +1,28 @@
-p {
-					color:maroon;
-					}
+	body {
+			font-family:sans-serif;
+			}
 
-				h1,h2 {
-					font-family:sans-serif;
-					color:gray;
-					}
+	p {
+		color:maroon;			
+		}
+
+	h1,h2 {
+		color:gray;
+		}
 	
-				h1 {
-					border-bottom:1px solid black;
-					}
+	h1 {
+		border-bottom:1px solid black;
+		}
+
+	blockquote.greentea, p.greentea {
+		color:green;
+		}
+		
+		p.raspberry {
+		color:blue;
+		}
+
+		p.blueberry {
+		color:purple;
+		}
+
