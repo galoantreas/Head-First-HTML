@@ -17,4 +17,9 @@ font-size:2.2em;
 
 h2 {
 font-size:1.3em;
+font-weight:normal;
+}
+blockquote {
+font-style:italic;
+
 }
