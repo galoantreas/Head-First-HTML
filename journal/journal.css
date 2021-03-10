@@ -10,6 +10,12 @@ body {
 font-family:Verdana, Geneva, Arial, sans-serif;
 }
 
+h1, h2 {
+color:#cc6600;
+border-bottom:thin dott
+ed #888888;
+}
+
 h1 {
 font-family:"Emblema One";
 font-size:2.2em;
