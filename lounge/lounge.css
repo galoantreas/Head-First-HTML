@@ -30,7 +30,10 @@ font-family:Georgia,"Times New Roman",Times,Serif;
 background-image: url(images/background.gif);
 background-repeat:no-repeat;
 background-position:top left;
-
-
 }
 
+#elixirs {
+border:thin solid #007e7e;
+width:200px;
+text-align:center;
+}
