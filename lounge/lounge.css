@@ -36,4 +36,31 @@ background-position:top left;
 border:thin solid #007e7e;
 width:200px;
 text-align:center;
+padding:0px 20px 20px 20px;
+margin-left:20px;
+background-image: url("images/cocktail.gif");
+background-repeat:repeat-x;
+line-height:1;
 }
+
+#elixirs h2 {
+color:black;
+}
+
+#elixirs h3 {
+color:red;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
