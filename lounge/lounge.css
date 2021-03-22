@@ -27,6 +27,7 @@ color:#444444;
 }
 
 #elixirs {
+float:right;
 border:thin solid #007e7e;
 width:200px;
 text-align:center;
