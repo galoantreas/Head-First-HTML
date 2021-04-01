@@ -71,3 +71,19 @@ div#tableContainer {
 div#tableRow {
   display:table-row;
 }
+
+#award {
+position:absolute;
+top:7%;
+left:45%;
+}
+
+#coupon {
+position:fixed;
+top:350px;
+left:0px;
+}
+
+#coupon a, img {
+border:none;
+}
