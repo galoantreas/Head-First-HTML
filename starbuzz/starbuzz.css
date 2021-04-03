@@ -5,15 +5,15 @@ body {
   margin:           0px;
 }
 
-#header {
+header {
   background-color: #675c47;
   margin:           10px 10px 0px 10px;
   height:           108px;
 }
 
-#headerSlogan {width:230px; float:right;}
+header img#headerSlogan {width:230px; float:right;}
 
-#main {
+section#main {
   display:	    table-cell;
   background:       #efe5d0 url(images/background.gif) top left;
   font-size:        105%;
@@ -21,7 +21,15 @@ body {
   margin:           0px 10px 10px 10px;
 }
 
-#sidebar {
+section#drinks {
+display:table-cell;
+background-color:#efe5d0;
+width:20%;
+padding:15px;
+vertical-align:top;
+}
+
+aside {
   display:	    table-cell;
   background:       #efe5d0 url(images/background.gif) bottom right;
   font-size:        105%;
@@ -31,7 +39,7 @@ body {
 vertical-align:top;
 }
 
-#footer {
+footer {
   background-color: #675c47;
   color:            #efe5d0;
   text-align:       center;
@@ -81,7 +89,7 @@ left:45%;
 #coupon {
 position:fixed;
 top:350px;
-left:0px;
+left:-90px;
 }
 
 #coupon a, img {
