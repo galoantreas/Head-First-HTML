@@ -13,7 +13,7 @@ header {
 
 header img#headerSlogan {width:230px; float:right;}
 
-section#main {
+section#main, section#blog {
   display:	    table-cell;
   background:       #efe5d0 url(images/background.gif) top left;
   font-size:        105%;
