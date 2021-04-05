@@ -5,13 +5,15 @@ body {
   margin:           0px;
 }
 
-header {
+header.top {
   background-color: #675c47;
   margin:           10px 10px 0px 10px;
   height:           108px;
 }
 
-header img#headerSlogan {width:230px; float:right;}
+img#headerSlogan {
+	width:230px;
+	float:right;}
 
 section#main, section#blog {
   display:	    table-cell;
@@ -95,3 +97,52 @@ left:-90px;
 #coupon a, img {
 border:none;
 }
+
+nav {
+background-color: #efe5d0;
+margin: 10px 10px 0px 10px;
+}
+
+nav ul {
+margin: 0px;
+list-style: none;
+padding: 5px 0px 5px 0px;
+}
+
+nav ul li {
+display: inline;
+padding: 5px 10px 5px 10px;
+}
+
+nav ul li a:link, nav ul li a:visited {
+color: #954b4b;
+border-bottom: none;
+font-weight: bold;
+}
+
+ul li.selected {
+background-color: #c8b99c;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
