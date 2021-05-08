@@ -47,3 +47,21 @@ caption {
 font-style:italic;
 padding-top:8px;
 }
+
+.center-aligned {
+text-align:center;
+}
+
+.right-aligned {
+text-align:right;
+}
+
+tr:nth-child(odd) {
+background-color:#fcba7a;
+}
+
+th {
+background-color: #cc6600;
+}
+
+
