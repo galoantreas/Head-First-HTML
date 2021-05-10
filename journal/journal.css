@@ -56,12 +56,17 @@ text-align:center;
 text-align:right;
 }
 
-tr:nth-child(odd) {
-background-color:#fcba7a;
-}
 
 th {
 background-color: #cc6600;
+}
+
+.cellColor {
+background-color:#fcba7a;
+}
+
+table table th {
+background-color:white;
 }
 
 
